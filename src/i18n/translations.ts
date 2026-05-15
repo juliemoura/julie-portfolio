@@ -267,8 +267,7 @@ export const translations: Record<Lang, Dict> = {
           description:
             'Dashboard de métricas com gráficos animados, filtros em tempo real e tema dark/light. Componentes acessíveis e reutilizáveis, prontos pra escalar.',
           tags: ['Next.js', 'TypeScript', 'Recharts'],
-          link: '#',
-          repo: '#',
+          repo: 'https://github.com/juliemoura/blossom-dashboard',
         },
         {
           title: 'Switchboard',
@@ -465,8 +464,7 @@ export const translations: Record<Lang, Dict> = {
           description:
             'Metrics dashboard with animated charts, real-time filters and dark/light themes. Accessible, reusable components ready to scale.',
           tags: ['Next.js', 'TypeScript', 'Recharts'],
-          link: '#',
-          repo: '#',
+          repo: 'https://github.com/juliemoura/blossom-dashboard',
         },
         {
           title: 'Switchboard',
@@ -663,8 +661,7 @@ export const translations: Record<Lang, Dict> = {
           description:
             'Tableau de bord avec graphiques animés, filtres en temps réel et thèmes clair/sombre. Composants accessibles et réutilisables, prêts à scaler.',
           tags: ['Next.js', 'TypeScript', 'Recharts'],
-          link: '#',
-          repo: '#',
+          repo: 'https://github.com/juliemoura/blossom-dashboard',
         },
         {
           title: 'Switchboard',
