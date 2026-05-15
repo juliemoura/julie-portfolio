@@ -1,11 +1,14 @@
 import { Header } from './components/Header'
+import { Hero } from './components/Hero'
 import { Footer } from './components/Footer'
 
 function App() {
   return (
     <>
       <Header />
-      <main className="min-h-[60vh]" />
+      <main>
+        <Hero />
+      </main>
       <Footer />
     </>
   )
