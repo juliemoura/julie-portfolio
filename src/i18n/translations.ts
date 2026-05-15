@@ -250,8 +250,7 @@ export const translations: Record<Lang, Dict> = {
           description:
             'Painel de conciliação de pagamentos Pix com transações em tempo real, status de webhooks, matching automático e detecção de anomalias. Inspirado no que faço na SttartPay.',
           tags: ['Next.js', 'TypeScript', 'WebSocket', 'Recharts'],
-          link: '#',
-          repo: '#',
+          repo: 'https://github.com/juliemoura/pixflow',
         },
         {
           title: 'Forge UI',
@@ -449,8 +448,7 @@ export const translations: Record<Lang, Dict> = {
           description:
             'Pix payment reconciliation dashboard with real-time transactions, webhook status, auto-matching and anomaly detection. Inspired by my work at SttartPay.',
           tags: ['Next.js', 'TypeScript', 'WebSocket', 'Recharts'],
-          link: '#',
-          repo: '#',
+          repo: 'https://github.com/juliemoura/pixflow',
         },
         {
           title: 'Forge UI',
@@ -648,8 +646,7 @@ export const translations: Record<Lang, Dict> = {
           description:
             'Tableau de bord de réconciliation des paiements Pix avec transactions en temps réel, statut des webhooks, matching automatique et détection d’anomalies. Inspiré de mon travail chez SttartPay.',
           tags: ['Next.js', 'TypeScript', 'WebSocket', 'Recharts'],
-          link: '#',
-          repo: '#',
+          repo: 'https://github.com/juliemoura/pixflow',
         },
         {
           title: 'Forge UI',
