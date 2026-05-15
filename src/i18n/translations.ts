@@ -295,8 +295,7 @@ export const translations: Record<Lang, Dict> = {
           description:
             'E-commerce com carrinho, checkout via Stripe e painel administrativo. Foco em micro-interações, dark mode e performance — Lighthouse 95+ no mobile.',
           tags: ['React', 'TypeScript', 'Tailwind', 'Stripe'],
-          link: '#',
-          repo: '#',
+          repo: 'https://github.com/juliemoura/cherry-shop',
         },
       ],
     },
@@ -495,8 +494,7 @@ export const translations: Record<Lang, Dict> = {
           description:
             'E-commerce with cart, Stripe checkout and admin panel. Focused on micro-interactions, dark mode and performance — Lighthouse 95+ on mobile.',
           tags: ['React', 'TypeScript', 'Tailwind', 'Stripe'],
-          link: '#',
-          repo: '#',
+          repo: 'https://github.com/juliemoura/cherry-shop',
         },
       ],
     },
@@ -695,8 +693,7 @@ export const translations: Record<Lang, Dict> = {
           description:
             'E-commerce avec panier, checkout Stripe et back-office. Focus sur les micro-interactions, le dark mode et la perf — Lighthouse 95+ sur mobile.',
           tags: ['React', 'TypeScript', 'Tailwind', 'Stripe'],
-          link: '#',
-          repo: '#',
+          repo: 'https://github.com/juliemoura/cherry-shop',
         },
       ],
     },
